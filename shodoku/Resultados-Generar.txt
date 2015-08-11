@@ -1,0 +1,3 @@
+﻿------ Operación Generar iniciada: proyecto: shodoku, configuración: Release x86 ------
+  shodoku -> K:\1º DAI\ple\2ª Ev\shodoku\shodoku\bin\Release\shodoku.exe
+========== Generar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========

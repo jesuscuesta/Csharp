@@ -1,0 +1,5 @@
+C:\Documents and Settings\Jesus\Escritorio\shodoku\shodoku\bin\Debug\shodoku.exe
+C:\Documents and Settings\Jesus\Escritorio\shodoku\shodoku\bin\Debug\shodoku.pdb
+C:\Documents and Settings\Jesus\Escritorio\shodoku\shodoku\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesus\Escritorio\shodoku\shodoku\obj\x86\Debug\shodoku.exe
+C:\Documents and Settings\Jesus\Escritorio\shodoku\shodoku\obj\x86\Debug\shodoku.pdb

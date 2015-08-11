@@ -1,0 +1,10 @@
+F:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\bin\Debug\blackjack.exe
+F:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\bin\Debug\blackjack.pdb
+F:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\obj\x86\Debug\blackjack.exe
+F:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\obj\x86\Debug\blackjack.pdb
+E:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\obj\x86\Debug\blackjack.exe
+E:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\obj\x86\Debug\blackjack.pdb
+E:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\bin\Debug\blackjack.exe
+E:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\bin\Debug\blackjack.pdb
+E:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\obj\x86\Debug\ResolveAssemblyReference.cache

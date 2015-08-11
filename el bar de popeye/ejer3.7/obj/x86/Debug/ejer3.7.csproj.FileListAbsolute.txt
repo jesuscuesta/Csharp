@@ -1,0 +1,7 @@
+F:\1º DAI\ple\Tema 5 y 6\ejercicio3\ejer3.7\ejer3.7\bin\Debug\ejer3.7.exe
+F:\1º DAI\ple\Tema 5 y 6\ejercicio3\ejer3.7\ejer3.7\bin\Debug\ejer3.7.pdb
+F:\1º DAI\ple\Tema 5 y 6\ejercicio3\ejer3.7\ejer3.7\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\1º DAI\ple\Tema 5 y 6\ejercicio3\ejer3.7\ejer3.7\obj\x86\Debug\ejer3.7.exe
+F:\1º DAI\ple\Tema 5 y 6\ejercicio3\ejer3.7\ejer3.7\obj\x86\Debug\ejer3.7.pdb
+E:\1º DAI\ple\Tema 5 y 6\ejercicio3\ejer3.7\ejer3.7\obj\x86\Debug\ejer3.7.exe
+E:\1º DAI\ple\Tema 5 y 6\ejercicio3\ejer3.7\ejer3.7\obj\x86\Debug\ejer3.7.pdb

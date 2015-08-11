@@ -1,0 +1,15 @@
+D:\1º DAI\ple\modulos\Copia de serpiente\serpiente\bin\Debug\serpiente.exe
+D:\1º DAI\ple\modulos\Copia de serpiente\serpiente\bin\Debug\serpiente.pdb
+D:\1º DAI\ple\modulos\Copia de serpiente\serpiente\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1º DAI\ple\modulos\Copia de serpiente\serpiente\obj\x86\Debug\serpiente.exe
+D:\1º DAI\ple\modulos\Copia de serpiente\serpiente\obj\x86\Debug\serpiente.pdb
+D:\1º DAI\ple\modulos\arkanoid\serpiente\bin\Debug\serpiente.exe
+D:\1º DAI\ple\modulos\arkanoid\serpiente\bin\Debug\serpiente.pdb
+D:\1º DAI\ple\modulos\arkanoid\serpiente\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1º DAI\ple\modulos\arkanoid\serpiente\obj\x86\Debug\serpiente.exe
+D:\1º DAI\ple\modulos\arkanoid\serpiente\obj\x86\Debug\serpiente.pdb
+D:\1º DAI\ple\modulos\juegos\arkanoid\completo\serpiente\bin\Debug\serpiente.exe
+D:\1º DAI\ple\modulos\juegos\arkanoid\completo\serpiente\bin\Debug\serpiente.pdb
+D:\1º DAI\ple\modulos\juegos\arkanoid\completo\serpiente\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1º DAI\ple\modulos\juegos\arkanoid\completo\serpiente\obj\x86\Debug\serpiente.exe
+D:\1º DAI\ple\modulos\juegos\arkanoid\completo\serpiente\obj\x86\Debug\serpiente.pdb

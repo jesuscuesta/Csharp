@@ -1,0 +1,10 @@
+F:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\bin\Debug\ahorcado.exe
+F:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\bin\Debug\ahorcado.pdb
+F:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\obj\x86\Debug\ahorcado.exe
+F:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\obj\x86\Debug\ahorcado.pdb
+E:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\obj\x86\Debug\ahorcado.exe
+E:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\obj\x86\Debug\ahorcado.pdb
+E:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\bin\Debug\ahorcado.exe
+E:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\bin\Debug\ahorcado.pdb
+E:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\obj\x86\Debug\ResolveAssemblyReference.cache

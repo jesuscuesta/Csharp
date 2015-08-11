@@ -1,0 +1,5 @@
+C:\Documents and Settings\Jesus\Escritorio\conecta4\conecta4\bin\Debug\conecta4.exe
+C:\Documents and Settings\Jesus\Escritorio\conecta4\conecta4\bin\Debug\conecta4.pdb
+C:\Documents and Settings\Jesus\Escritorio\conecta4\conecta4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesus\Escritorio\conecta4\conecta4\obj\x86\Debug\conecta4.exe
+C:\Documents and Settings\Jesus\Escritorio\conecta4\conecta4\obj\x86\Debug\conecta4.pdb

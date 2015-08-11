@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0E268E01-D266-4432-B9D4-3BECD57D6429}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProyectoFinal</RootNamespace>
+    <AssemblyName>ProyectoFinal</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AyudaAfines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyudaAfines.Designer.cs">
+      <DependentUpon>AyudaAfines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AyudaAnimales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyudaAnimales.Designer.cs">
+      <DependentUpon>AyudaAnimales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdoptantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdoptantes.Designer.cs">
+      <DependentUpon>frmAdoptantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAfines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAfines.Designer.cs">
+      <DependentUpon>frmAfines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAnimales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnimales.Designer.cs">
+      <DependentUpon>frmAnimales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmColaborador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmColaborador.Designer.cs">
+      <DependentUpon>frmColaborador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmContactos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmContactos.Designer.cs">
+      <DependentUpon>frmContactos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEventos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEventos.Designer.cs">
+      <DependentUpon>frmEventos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLesiones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLesiones.Designer.cs">
+      <DependentUpon>frmLesiones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMateriales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMateriales.Designer.cs">
+      <DependentUpon>frmMateriales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPadrinos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPadrinos.Designer.cs">
+      <DependentUpon>frmPadrinos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParticulares.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParticulares.Designer.cs">
+      <DependentUpon>frmParticulares.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPaseador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPaseador.Designer.cs">
+      <DependentUpon>frmPaseador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSocio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSocio.Designer.cs">
+      <DependentUpon>frmSocio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVacunas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVacunas.Designer.cs">
+      <DependentUpon>frmVacunas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerTodosAnimales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerTodosAnimales.Designer.cs">
+      <DependentUpon>frmVerTodosAnimales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVoluntarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVoluntarios.Designer.cs">
+      <DependentUpon>frmVoluntarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="protectoraDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>protectoraDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AyudaAfines.resx">
+      <DependentUpon>AyudaAfines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AyudaAnimales.resx">
+      <DependentUpon>AyudaAnimales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdoptantes.resx">
+      <DependentUpon>frmAdoptantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAfines.resx">
+      <DependentUpon>frmAfines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAnimales.resx">
+      <DependentUpon>frmAnimales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmColaborador.resx">
+      <DependentUpon>frmColaborador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmContactos.resx">
+      <DependentUpon>frmContactos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEventos.resx">
+      <DependentUpon>frmEventos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLesiones.resx">
+      <DependentUpon>frmLesiones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMateriales.resx">
+      <DependentUpon>frmMateriales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPadrinos.resx">
+      <DependentUpon>frmPadrinos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParticulares.resx">
+      <DependentUpon>frmParticulares.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPaseador.resx">
+      <DependentUpon>frmPaseador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSocio.resx">
+      <DependentUpon>frmSocio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVacunas.resx">
+      <DependentUpon>frmVacunas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerTodosAnimales.resx">
+      <DependentUpon>frmVerTodosAnimales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVoluntarios.resx">
+      <DependentUpon>frmVoluntarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="protectoraDataSet.xsc">
+      <DependentUpon>protectoraDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="protectoraDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>protectoraDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="protectoraDataSet.xss">
+      <DependentUpon>protectoraDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\papel1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\papel2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\datosanimales.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hoja.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crosssmall.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cielo.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p2.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tierra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\perrogato.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casa1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casa6.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casa2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casa3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casa4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casa5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bosque.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adoptantes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eventos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\afines.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\animales.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\colaborador.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contactos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\juegoanimales1.exe" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buho2.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jirafa.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rail-walking2.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tituloasoka.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\animales.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pacman.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\burbuja.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

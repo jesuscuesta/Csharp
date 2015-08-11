@@ -1,0 +1,10 @@
+E:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\bin\Release\blackjack.exe
+E:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\bin\Release\blackjack.pdb
+E:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\obj\x86\Release\ResolveAssemblyReference.cache
+E:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\obj\x86\Release\blackjack.exe
+E:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\obj\x86\Release\blackjack.pdb
+F:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\obj\x86\Release\blackjack.exe
+F:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\obj\x86\Release\blackjack.pdb
+F:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\bin\Release\blackjack.exe
+F:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\bin\Release\blackjack.pdb
+F:\1º DAI\ple\Tema 7\Matricescasa\blackjack\blackjack\obj\x86\Release\ResolveAssemblyReference.cache

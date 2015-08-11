@@ -1,0 +1,7 @@
+C:\Documents and Settings\Jesus\Escritorio\conecta4\conecta4\bin\Release\conecta4.exe
+C:\Documents and Settings\Jesus\Escritorio\conecta4\conecta4\bin\Release\conecta4.pdb
+C:\Documents and Settings\Jesus\Escritorio\conecta4\conecta4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesus\Escritorio\conecta4\conecta4\obj\x86\Release\conecta4.exe
+C:\Documents and Settings\Jesus\Escritorio\conecta4\conecta4\obj\x86\Release\conecta4.pdb
+D:\1º DAI\ple\modulos\juegos\conecta4\conecta4\obj\x86\Release\conecta4.exe
+D:\1º DAI\ple\modulos\juegos\conecta4\conecta4\obj\x86\Release\conecta4.pdb

@@ -1,0 +1,15 @@
+C:\Documents and Settings\Jesus\Escritorio\shodoku\shodoku\bin\Release\shodoku.exe
+C:\Documents and Settings\Jesus\Escritorio\shodoku\shodoku\bin\Release\shodoku.pdb
+C:\Documents and Settings\Jesus\Escritorio\shodoku\shodoku\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesus\Escritorio\shodoku\shodoku\obj\x86\Release\shodoku.exe
+C:\Documents and Settings\Jesus\Escritorio\shodoku\shodoku\obj\x86\Release\shodoku.pdb
+D:\1º DAI\ple\2ª Ev\shodoku\shodoku\obj\x86\Release\shodoku.exe
+D:\1º DAI\ple\2ª Ev\shodoku\shodoku\obj\x86\Release\shodoku.pdb
+D:\1º DAI\ple\2ª Ev\shodoku\shodoku\bin\Release\shodoku.exe
+D:\1º DAI\ple\2ª Ev\shodoku\shodoku\bin\Release\shodoku.pdb
+D:\1º DAI\ple\2ª Ev\shodoku\shodoku\obj\x86\Release\ResolveAssemblyReference.cache
+K:\1º DAI\ple\2ª Ev\shodoku\shodoku\obj\x86\Release\shodoku.exe
+K:\1º DAI\ple\2ª Ev\shodoku\shodoku\obj\x86\Release\shodoku.pdb
+K:\1º DAI\ple\2ª Ev\shodoku\shodoku\bin\Release\shodoku.exe
+K:\1º DAI\ple\2ª Ev\shodoku\shodoku\bin\Release\shodoku.pdb
+K:\1º DAI\ple\2ª Ev\shodoku\shodoku\obj\x86\Release\ResolveAssemblyReference.cache

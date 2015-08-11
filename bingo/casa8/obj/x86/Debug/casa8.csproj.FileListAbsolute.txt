@@ -1,0 +1,12 @@
+C:\Documents and Settings\1dai\Escritorio\matrices\casa8\casa8\bin\Debug\casa8.exe
+C:\Documents and Settings\1dai\Escritorio\matrices\casa8\casa8\bin\Debug\casa8.pdb
+C:\Documents and Settings\1dai\Escritorio\matrices\casa8\casa8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1dai\Escritorio\matrices\casa8\casa8\obj\x86\Debug\casa8.exe
+C:\Documents and Settings\1dai\Escritorio\matrices\casa8\casa8\obj\x86\Debug\casa8.pdb
+F:\1º DAI\ple\Tema 7\Matricescasa\matrices\casa8\casa8\obj\x86\Debug\casa8.exe
+F:\1º DAI\ple\Tema 7\Matricescasa\matrices\casa8\casa8\obj\x86\Debug\casa8.pdb
+F:\1º DAI\ple\Tema 7\Matricescasa\matrices\casa8\casa8\bin\Debug\casa8.exe
+F:\1º DAI\ple\Tema 7\Matricescasa\matrices\casa8\casa8\bin\Debug\casa8.pdb
+F:\1º DAI\ple\Tema 7\Matricescasa\matrices\casa8\casa8\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\1º DAI\ple\Tema 7\Matricescasa\matrices\casa8\casa8\obj\x86\Debug\casa8.exe
+E:\1º DAI\ple\Tema 7\Matricescasa\matrices\casa8\casa8\obj\x86\Debug\casa8.pdb

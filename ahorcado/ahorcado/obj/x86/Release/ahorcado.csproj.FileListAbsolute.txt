@@ -1,0 +1,15 @@
+E:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\bin\Release\ahorcado.exe
+E:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\bin\Release\ahorcado.pdb
+E:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\obj\x86\Release\ResolveAssemblyReference.cache
+E:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\obj\x86\Release\ahorcado.exe
+E:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\obj\x86\Release\ahorcado.pdb
+F:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\obj\x86\Release\ahorcado.exe
+F:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\obj\x86\Release\ahorcado.pdb
+F:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\bin\Release\ahorcado.exe
+F:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\bin\Release\ahorcado.pdb
+F:\1º DAI\ple\tema 8\ahorcado\ahorcado\ahorcado\obj\x86\Release\ResolveAssemblyReference.cache
+D:\1º DAI\ple\1ª Ev\tema 8\ahorcado\ahorcado\ahorcado\obj\x86\Release\ahorcado.exe
+D:\1º DAI\ple\1ª Ev\tema 8\ahorcado\ahorcado\ahorcado\obj\x86\Release\ahorcado.pdb
+D:\1º DAI\ple\1ª Ev\tema 8\ahorcado\ahorcado\ahorcado\bin\Release\ahorcado.exe
+D:\1º DAI\ple\1ª Ev\tema 8\ahorcado\ahorcado\ahorcado\bin\Release\ahorcado.pdb
+D:\1º DAI\ple\1ª Ev\tema 8\ahorcado\ahorcado\ahorcado\obj\x86\Release\ResolveAssemblyReference.cache

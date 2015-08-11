@@ -1,0 +1,5 @@
+E:\1º DAI\ple\Tema 7\Matricescasa\matrices\casa8\casa8\bin\Release\casa8.exe
+E:\1º DAI\ple\Tema 7\Matricescasa\matrices\casa8\casa8\bin\Release\casa8.pdb
+E:\1º DAI\ple\Tema 7\Matricescasa\matrices\casa8\casa8\obj\x86\Release\ResolveAssemblyReference.cache
+E:\1º DAI\ple\Tema 7\Matricescasa\matrices\casa8\casa8\obj\x86\Release\casa8.exe
+E:\1º DAI\ple\Tema 7\Matricescasa\matrices\casa8\casa8\obj\x86\Release\casa8.pdb
